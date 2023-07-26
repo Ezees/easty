@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Desktop/Doge/my-app/Bot"
+		},
+		{
+			"path": "../Desktop/Doge/my-app/node_modules"
+		},
+		{
+			"path": "../Desktop/Doge/my-app/public"
+		},
+		{
+			"path": "../Desktop/Doge/my-app/src"
+		}
+	],
+	"settings": {}
+}
